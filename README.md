@@ -1,7 +1,9 @@
 Intended as a project for "Framework System for Web Programming", Software Technologies and Design 2016/2020, Faculty of Informatics and Mathematics, Plovdiv University
 
 Момчил Костадинов Момчилов – 1601681039
+
 Мирослав Веселинов Василев – 1601681060
+
 Пламен Грозев Делчев – 1601681063
 
 # AngularApp01
